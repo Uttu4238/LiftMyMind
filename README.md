@@ -26,7 +26,7 @@ Follow these steps to set up the project locally:
 
 2. **Navigate into the project directory**
    ```bash
-   cd LiftMyMind/LiftMyMind-main
+   cd LiftMyMind-main
    ```
    *(Note: Ensure you are in the directory containing the `package.json` file)*
 
