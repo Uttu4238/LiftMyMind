@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body, html, #__next, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background: black;
+  font-family: 'Roboto', sans-serif;
+}
+.text-stroke-3 {
+  -webkit-text-stroke: 1px white;
+}
